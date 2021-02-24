@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a88b037-d29a-4776-8cc5-d7a5a2d85e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/Ex1_tfreadfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/Ex1_wavfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/HW1_ex4_Group14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/TFRecordReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/audio1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/audio2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/audio3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/audio4.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/audio5.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex1/raw_data/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Ex2/HW1_ex5_Group14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM1/Group14_Homework1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/Group14_Homework2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/HW2_ex1_Group14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/HW2_ex2_Group14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/ML4IoT_HW2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/ML4IoT_HW2_KS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/SolutionModels/1TH Forecating/A/Group14_th_a.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/SolutionModels/1TH Forecating/B/Group14_th_b.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/SolutionModels/2Keyword Spotting/A/Group14_kws_a.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/SolutionModels/2Keyword Spotting/B/Group14_kws_b.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/SolutionModels/2Keyword Spotting/C/Group14_kws_c.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/kws_test_split.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/kws_train_split.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM2/kws_val_split.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex1_Group14/notebook/big.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex1_Group14/notebook/big_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex1_Group14/rpi/little.tflite.zlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex1_Group14/rpi/little_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex1_Group14/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/1.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/2.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/3.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/DoSomething.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/MyMQTT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/notebook/inference_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/rpi/DoSomething.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/rpi/MyMQTT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/rpi/cooperative_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Ex2_Group14/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HM3/Group14_Homework3.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ovQVAobxBax51GAIoFAycsDPw5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a88b037-d29a-4776-8cc5-d7a5a2d85e31" name="Default Changelist" comment="" />
+      <created>1614164605352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614164605352</updated>
+      <workItem from="1614164606513" duration="835000" />
+    </task>
+    <task id="LOCAL-00001" summary="grade 17/18">
+      <created>1614164749302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614164749302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="grade 17/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="grade 17/18" />
+  </component>
+</project>
